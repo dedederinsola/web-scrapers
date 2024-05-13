@@ -1,7 +1,7 @@
 # web scrapers
  a collection of web scrapers using various tools and methods
 
-##Scrapers made for https://books.toscrape.com/index.html
+## Scrapers made for https://books.toscrape.com/index.html
 
 The aim is to scrape all book titles, prices and availability into an excel workbook, with different sheets for each category.
 
