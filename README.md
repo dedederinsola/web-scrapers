@@ -11,3 +11,4 @@ The result looks like so
  1. booksimplegui.py: Uses openpyxl to write to the workbook and PySimpleGUI to allow user to select directory to save it in, using Save As dialog box.
  2. booktkinter.py: Uses openpyxl to write to the workbook and Tkinter to allow user to select directory to save it in, using Save As dialog box.
  3. bookuserpath.py: Uses openpyxl to write to the workbook and prompts the user to enter the path manually.
+ 4. bookpandas.py: Uses pandas DataFrame and openpyxl to write to the workbook and Tkinter to prompt the user to select the file path.
